@@ -1,7 +1,9 @@
-﻿# bboss group website:
+# bboss group website:
 http://www.bbossgroups.com
 
 # bboss group project blog:
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fbbossgroups-3.5.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fbbossgroups-3.5?ref=badge_shield)
+
 http://yin-bp.iteye.com/
 
 # bboss group project source url:
@@ -161,3 +163,5 @@ ant构建补充说明：bboss提供了统一的ant构建指令集，执行这些
 The BBoss Framework is released under version 2.0 of the [Apache License][].
 
 [Apache License]: http://www.apache.org/licenses/LICENSE-2.0
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fbbossgroups-3.5.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fbbossgroups-3.5?ref=badge_large)
